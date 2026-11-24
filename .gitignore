@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Runtime data
+bot.db
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tooling
+.workbuddy-ai/
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
